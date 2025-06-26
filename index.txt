@@ -1,0 +1,43 @@
+Shining - Reveal The Beauty of Skin
+
+
+
+#---------- HEADER ----------#
+
+Free Shipping On All U.S. Orders $30+
+
+aria-label = open menu
+
+placeholder = Search product
+
+aria-label = search
+
+<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+
+alt = Shining
+
+aria-label = user
+
+<ion-icon name="person-outline" aria-hidden="true" aria-hidden="true"></ion-icon>
+
+aria-label = favourite item
+
+<ion-icon name="star-outline" aria-hidden="true"></ion-icon>
+0
+
+aria-label = cart item
+
+$0.00
+<ion-icon name="bag-handle-outline" aria-hidden="true"></ion-icon>
+0
+
+Home
+Collection
+Shop
+Offer
+Blog
+
+
+
+
+
